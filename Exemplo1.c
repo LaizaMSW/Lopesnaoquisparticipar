@@ -1,1 +1,1 @@
-printf("Gostaria de saber");
+printf("Nao sei");
