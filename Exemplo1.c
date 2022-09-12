@@ -1,1 +1,1 @@
-printf("Sei lah");
+printf("Nao sei");
